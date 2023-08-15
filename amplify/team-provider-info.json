@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pocketdrive-dev-194201-authRole",
+      "UnauthRoleArn": "arn:aws:iam::838881002450:role/amplify-pocketdrive-dev-194201-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::838881002450:role/amplify-pocketdrive-dev-194201-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-pocketdrive-dev-194201-deployment",
+      "UnauthRoleName": "amplify-pocketdrive-dev-194201-unauthRole",
+      "StackName": "amplify-pocketdrive-dev-194201",
+      "StackId": "arn:aws:cloudformation:us-east-1:838881002450:stack/amplify-pocketdrive-dev-194201/9689aee0-1eba-11ee-b476-12f8ed83dea3",
+      "AmplifyAppId": "d3ck0gt4ytnfsb"
+    },
+    "categories": {
+      "auth": {
+        "pocketdriveca82d5cc": {}
+      }
+    }
+  }
+}
