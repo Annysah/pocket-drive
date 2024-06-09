@@ -8,7 +8,7 @@ import { CognitoHostedUIIdentityProvider } from "@aws-amplify/auth";
 
 import Link from "next/link";
 import Image from "next/image";
-import Header from "../components/header";
+import Header from "../components/Header";
 
 import "../../configureAmplify";
 
